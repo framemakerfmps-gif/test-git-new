@@ -1,1 +1,1 @@
-export default [{"displayName":"edtopic","url":"contents/deep-link/guid-f2cd269e-837d-48cb-bfd0-77f1d86f210c"}]
+export default [{"displayName":"edtopic","url":"contents/guid-f2cd269e-837d-48cb-bfd0-77f1d86f210c"}]
